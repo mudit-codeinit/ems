@@ -1,0 +1,911 @@
+* {
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+ a {
+     text-decoration:none;
+     outline: none;
+     color: #000;
+     cursor: pointer;
+}
+}
+ p{
+     font-size: 15px;
+     line-height: 1.6 
+}
+ .font-18{
+     font-size: 18px;
+}
+.subpage-car-img-section
+{
+    padding: 0px 30px;
+}
+.subpage-bg-section
+{
+    background: url(/images/get-back.jpg) no-repeat;
+    background-size: cover;
+}
+.subpages-content p
+{
+    font-size:16px;
+}
+ .btn-theme{
+     padding: 11px 69px;
+}
+ a:hover{
+     text-decoration: none;
+}
+ .theme-bg{
+     background:#f24026 
+}
+ body{
+     font-family:'Open Sans', sans-serif;
+     color: #000;
+}
+button.navbar-toggler {
+    padding: 5px;
+    font-size: 15px;
+}
+.navbar-toggler-icon{
+    width: 30px;
+    height: 20px;
+}
+ .font-mons{
+     font-family: 'Montserrat', sans-serif;
+}
+
+
+.logo{width: 238px;}
+ .f-18{
+     font-size: 18px 
+}
+}
+ .f-medium{
+     font-weight: 500 
+}
+
+ .navigation_bar.navbar-nav li a.nav-link {
+    position: relative;
+}
+ .header-main {
+    position: relative;
+     z-index: 1; box-shadow: 0 0.2rem 1rem rgba(0, 0, 0, 0.15);
+}
+ .book-button{
+    width: 180px;
+     padding: 0.7rem 0px;
+}
+/*-------------animated banner---------*/
+ .bg {
+     position: relative;
+     background: #fff url(../images/Header-Img.svg) repeat-x;
+     background-size:cover;
+     background-position: bottom left;
+     animation: animate 30s linear infinite;
+}
+ @keyframes animate {
+     from {
+         background-position: 0 0;
+    }
+     to {
+         background-position: calc(100% - 100vw) 0;
+    }
+}
+ .freepik {
+     position: fixed;
+     top: 10px;
+     right: 10px;
+     color: rgba(0, 0, 0, 0.5);
+     text-decoration: none;
+}
+ .car {
+     position: relative;
+     height: 120px;
+     width: 329px;
+     bottom: 0;
+     left: 20px;
+}
+ .bottom-line{
+     position: absolute;
+     bottom: 0;
+     left: 0;
+}
+ #moving-type-left {
+     position: absolute;
+     top: 66px;
+     left: 60px;
+}
+ .circle1 {
+     position: relative;
+     top: 0px;
+     width: 53.741px;
+     height: 53.741px;
+     ;
+     background: url(../images/left.svg) no-repeat;
+     animation: spin1 0.5s infinite linear;
+     -webkit-animation: spin1 1s infinite linear;
+}
+/* animations */
+ @keyframes spin1 {
+     0% {
+         -moz-transform:rotate(320deg);
+         -webkit-transform:rotate(320deg);
+         -o-transform:rotate(320deg);
+         -ms-transform:rotate(320deg);
+    }
+     100% {
+         -moz-transform:rotate(640deg);
+         -webkit-transform:rotate(640deg);
+         -o-transform:rotate(680deg);
+         -ms-transform:rotate(680deg);
+    }
+}
+ @-webkit-keyframes spin1 {
+     0% {
+         -moz-transform:rotate(320deg);
+         -webkit-transform:rotate(320deg);
+         -o-transform:rotate(320deg);
+         -ms-transform:rotate(320deg);
+    }
+     100% {
+         -moz-transform:rotate(680deg);
+         -webkit-transform:rotate(680deg);
+         -o-transform:rotate(680deg);
+         -ms-transform:rotate(680deg);
+    }
+}
+ #moving-type-right {
+     position: absolute;
+     top: 66px;
+     left: 260px;
+}
+ .circle2 {
+     position: relative;
+     top: 0px;
+     width: 53.741px;
+     height: 53.741px;
+     ;
+     background: url(../images/right.svg) no-repeat;
+     animation: spin1 0.5s infinite linear;
+     -webkit-animation: spin1 1s infinite linear;
+}
+ @keyframes spin2 {
+     0% {
+         -moz-transform:rotate(320deg);
+         -webkit-transform:rotate(320deg);
+         -o-transform:rotate(320deg);
+         -ms-transform:rotate(320deg);
+    }
+     100% {
+         -moz-transform:rotate(640deg);
+         -webkit-transform:rotate(640deg);
+         -o-transform:rotate(680deg);
+         -ms-transform:rotate(680deg);
+    }
+}
+ @-webkit-keyframes spin2 {
+     0% {
+         -moz-transform:rotate(320deg);
+         -webkit-transform:rotate(320deg);
+         -o-transform:rotate(320deg);
+         -ms-transform:rotate(320deg);
+    }
+     100% {
+         -moz-transform:rotate(680deg);
+         -webkit-transform:rotate(680deg);
+         -o-transform:rotate(680deg);
+         -ms-transform:rotate(680deg);
+    }
+}
+/*-------------------*/
+ .navigation_bar.navbar-nav li.active a.nav-link:before, .navigation_bar.navbar-nav li a.nav-link:hover:before {
+     position: absolute;
+     background: #f24026;
+     content: "";
+     height: 4px;
+     width: 100%;
+     top: -8px;
+     left: 0;
+}
+ .car{
+     bottom: 0px;
+     left: 20px;
+}
+ .car img{
+     width: 262px 
+}
+ .navigation_bar.navbar-nav li.active a.nav-link{
+     color: #f24026;
+}
+ .banner-Text{
+     top: 50%;
+     transform: translateY(-50%);
+}
+ .theme-color{
+     color: #f24026 
+}
+ .basic-color{
+     color:#606568 
+}
+ .basic-color1{
+     color:#676e76;
+}
+ .banner-form ul.dropdown-menu.show {
+     width: 100%;
+     padding-left: 15px;
+}
+ ul.dropdown-menu li a{
+     color: rgba(37,36,37,0.5);
+}
+ .sellanycar .list-inline-item:not(:last-child) {
+     margin-right: 0;
+}
+ .banner-form .dropdown-toggle::after {
+     right: 15px;
+     position: absolute;
+     top: 22px;
+}
+ .banner-form .dropdown .dropdown-toggle {
+     box-sizing: border-box;
+     border: 1px solid #ced4da;
+     border-radius: 5px;
+     font-size: 14px;
+     background-color: white;
+     background-position: 18px 15px;
+     background-repeat: no-repeat;
+     padding: 13px 20px 13px 50px;
+     color: rgba(37,36,37,0.5);
+     text-align: left;
+     background-size:18px;
+}
+ .banner-form .dropdown.car_year .dropdown-toggle, .banner-form .car_date .dropdown-toggle {
+     background-image: url(../images/calendar.svg);
+}
+ .banner-form .dropdown.selectmake .dropdown-toggle {
+     background-image: url(../images/taxi.svg);
+     background-size: 20px;
+}
+ .banner-form .dropdown.car_modal .dropdown-toggle {
+     background-image: url(../images/slider-tool.svg);
+}
+.banner-form select,
+.banner-form input{
+    border:1px solid #e5e5e5;
+    border-radius:10px;
+    background-size: 32px 25px;
+    background-position: 3px 9px;
+    background-repeat: no-repeat;
+    padding-left: 44px;
+    background-image:url(../images/taxi.svg);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.banner-form  select.modl-model{
+    background-image: url(../images/slider-tool.svg)
+}
+.banner-form select.modl-year{
+    background-image: url(../images/calendar.svg)
+}
+.banner-form  .dropdown .dropdown-toggle{
+    border:1px solid #e5e5e5;
+    border-radius:10px;
+    background-image:url(../images/taxi.svg);
+    text-align:left
+}
+.banner-form  select:before{
+    background:url(../images/drop.png);
+    width:12px;
+    height:8px;
+    right:0;
+    top:0
+}
+.banner-form .car_year .dropdown-toggle{
+    background-image:url(../images/calendar.svg)
+}
+.banner-form .car_modl .dropdown-toggle{
+    background-image:url(../images/slider-tool.svg)
+}
+.banner-form .car_call input{
+    background-image:url(../images/phone-call.svg);
+    background-position:10px 12px
+}
+.banner-form .modl-date input{
+    background-image: url(../images/calendar.svg);
+}
+.banner-form .car_date .dropdown-toggle{
+    background-image:url(../images/calendar.svg)
+}
+.banner-form .select-time .dropdown-toggle{
+    background-image:url(../images/clockwise.svg)
+}
+.banner-form .preferred-branch .dropdown-toggle{
+    background-image:url(../images/chair.svg)
+}
+ .width-24{
+    width: 24px;
+}
+ .banner-form {
+     background: #fff;
+     border-radius: 4px;
+     box-shadow: 0 7px 30px rgba(0, 0, 0, 0.1);
+     border: 1px solid #e0e0e0;
+}
+ .supportMail{
+     background:#494949;
+}
+ .how_does_work_section img{
+     width: 40px 
+}
+ .how_does_work_section p{
+     color: rgba(0,0,0,0.5);
+}
+ .sellingCarDetail{
+     margin-top: -75px;
+     background: #f24026;
+     height: 271px 
+}
+ .sellanycar{
+     margin-top: 16rem 
+}
+ .sellcarlist li{
+     color: #626161;
+     width: 49%;
+     vertical-align: top;
+}
+ .simpleFastProfitable{
+     background:#f7f7f7;
+}
+ .process-Title:before{
+     width: 30px;
+     height:30px;
+     border:2px solid #f24026;
+     border-radius: 50px;
+     position: absolute;
+     left:12px;
+     font-size: 13px;
+     font-weight: 600;
+     color: #f24026;
+     text-align: center;
+     line-height: 1.9;
+}
+ .process1:before{
+     content: '1';
+}
+ .process2:before{
+     content: '2';
+}
+ .process3:before{
+     content: '3';
+}
+ .process4:before{
+     content: '4';
+}
+ .userReview{
+     border:1px solid #e1e1e1;
+     color:#626161;
+     font-size: 13px;
+     position: relative;
+     line-height: 1.6;
+     border-radius: 10px;
+}
+ .reviewBox:before{
+     background: url(../images/quotation-mark.svg);
+     content: '';
+     position: absolute;
+     background-size: cover;
+     height: 23px;
+     background-repeat: no-repeat;
+     width: 23px;
+     left: 20px;
+}
+ .userReview:after, .userReview:before {
+     border-left: 21px solid transparent;
+     border-right: 20px solid transparent;
+     border-top: 22px solid #fff;
+     bottom: -21px;
+     content: '';
+     left:70px;
+     margin-left: -20px;
+     position: absolute;
+}
+ .userReview:before {
+     border-left: 22px solid transparent;
+     border-right: 22px solid transparent;
+     border-top: 24px solid;
+     border-top-color: #e1e1e1;
+     bottom: -23px;
+     margin-left: -21px;
+}
+ .userProfile {
+     width: 62px;
+     height: 62px;
+     border-radius: 50%;
+     text-align: center;
+     color: #fff;
+     padding-top: 17px;
+}
+ .Profile-alpha-i{
+     background:#535c68;
+}
+ .Profile-alpha-o{
+     background:#30336b;
+}
+ .Profile-alpha-a{
+     background:#eb4d4b;
+}
+ .selling-process.directionLeft:after{
+     position: absolute;
+     content: '';
+     background: url(../images/Path-arrow.svg);
+     right: 47px;
+     background-repeat: no-repeat;
+     height: 130px;
+     width: 100%;
+     background-position: center;
+     top: 100%;
+}
+ .selling-process{
+     position: relative;
+     width: 100%;
+}
+ .selling-process.directionRight:after{
+     position: absolute;
+     content: '';
+     background: url(../images/Line2.svg);
+     left: 48px;
+     background-repeat: no-repeat;
+     height: 130px;
+     width: 100%;
+     background-position: center;
+     top: 100%;
+}
+ .subscribeNewsletter{
+     background: #f24026;
+     height: 495px 
+}
+ .sign-up{
+     width: 407px;
+}
+ .signButton{
+     color: #fff;
+     width: 189px;
+     height: 50px;
+     line-height: normal;
+}
+ .iframe-map{
+     top: 0;
+     width: 50%;
+     right:0;
+}
+ .brand-list li{
+     margin-bottom: 10px 
+}
+ .brand-list li a {
+     color:#626161;
+     font-size:13px;
+}
+ .brands{
+     background:#f7f7f7;
+}
+ .footer h6{
+     color: #222f3e;
+}
+ .footer a:hover{
+     color: #F84429 
+}
+ .footer p ,.footer li a{
+     color: #626161;
+     font-size: 14px;
+     line-height: 1.8 
+}
+ .footer li{
+     color: #626161;
+     font-size: 14px;
+     line-height: 1.8 
+}
+ .footer-bottom{
+     color:#626161 
+}
+ .footer img{
+     width: 20px 
+}
+ .footer-abt img{
+     width: 15px 
+}
+ .displayNone1024{
+     display: none 
+}
+    .carousel-inner{
+         overflow: visible;
+      }
+      .carousel-indicators li{
+         display: none
+      }
+      a.go-to-top {
+ position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 70px;
+    height: 70px;
+    background: #F84429;
+    border-radius: 0;
+    color: #fff !important;
+    font-size: 11px;
+    text-align: center;
+    padding-top:20px;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 50px;
+    line-height: normal;
+    font-weight: bold;
+}
+}
+a.go-to-top:not([href]):not([tabindex]) {
+    color: #fff;
+}
+.go-to-top img {
+    display: block;
+    margin:-5px auto 2px;
+}
+/*-----------animation---------*/
+ .animated {
+     -webkit-animation-duration: 1s;
+     animation-duration: 1s;
+     -webkit-animation-fill-mode: both;
+     animation-fill-mode: both;
+}
+ @-webkit-keyframes fadeInRight {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateX(20px);
+         transform: translateX(20px);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateX(0);
+         transform: translateX(0);
+    }
+}
+ @keyframes fadeInRight {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateX(20px);
+         -ms-transform: translateX(20px);
+         transform: translateX(20px);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateX(0);
+         -ms-transform: translateX(0);
+         transform: translateX(0);
+    }
+}
+ .fadeInRight {
+     -webkit-animation-name: fadeInRight;
+     animation-name: fadeInRight;
+}
+ @-webkit-keyframes fadeInLeft {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateX(-20px);
+         transform: translateX(-20px);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateX(0);
+         transform: translateX(0);
+    }
+}
+ @keyframes fadeInLeft {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateX(-20px);
+         -ms-transform: translateX(-20px);
+         transform: translateX(-20px);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateX(0);
+         -ms-transform: translateX(0);
+         transform: translateX(0);
+    }
+}
+ .fadeInLeft {
+     -webkit-animation-name: fadeInLeft;
+     animation-name: fadeInLeft;
+}
+ .bg {
+     height: 610px 
+}
+
+/*here start 12-07-2018*/
+.bg-light-gray {
+    background-color: #f6f6f6;
+}
+.dots {
+    position: absolute;
+    left: 100%;
+    top: 30%;
+    width: 100%;
+    transform: translate(-50%, -30%);
+}
+.dot {
+    height: 12px;
+    width: 12px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dots.active .dot{
+     background-color: #64c03d;
+}
+.hw-64{
+    height: 64px;
+    width: 64px;
+}
+.hw-32{
+    height: 32px;
+    width: 32px;
+}
+.go-back {
+    border-bottom: 2px solid #ccc;
+}
+.banner-form .car_date .dropdown-toggle{
+    
+}
+.banner-form .select-time .dropdown-toggle{
+    background-image: url(../images/clockwise.svg);
+    
+}
+.banner-form .preferred-branch .dropdown-toggle {
+    background-image: url(../images/chair.svg);
+   
+}
+.banner-form .add-mail .dropdown-toggle {
+    background-image: url(../images/email.svg);
+    background-position: 10px 16px;
+    background-size: 22px;
+}
+
+
+ @media only screen and (min-width: 768px) {
+     .bg {
+         height: 610px 
+    }
+}
+ @media only screen and (min-width: 980px) {
+     .bg {
+         height: 610px 
+    }
+}
+ @media only screen and (min-width: 1200px) {
+     .bg {
+         height: 550px 
+    }
+}
+ @media only screen and (min-width: 1800px) {
+     .bg{
+         height: 650px;
+         background-size: contain;
+    }
+}
+ @media only screen and (max-width: 1024px) {
+     .sellanycar {
+         margin-top: 20rem;
+    }
+}
+ @media only screen and (min-width: 980px) and (max-width: 1179px) {
+     .book-button{
+        width: 150px;
+    }
+}
+ @media only screen and (max-width:980px) {
+     .navigation_bar.navbar-nav li.active a.nav-link:before, .navigation_bar.navbar-nav li a.nav-link:hover:before{
+         display: none 
+    }
+      .what-people-say .h-100{
+         height: auto !important;
+    }
+    .carousel-inner {
+    overflow: hidden;
+}
+
+.carousel-indicators li , .carousel-indicators li.active{
+display: block;
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border-radius: 50px;
+    bottom: -35px;
+}
+     .btn-phone{
+         width: 200px 
+    }
+     .dropdown.mr-3:nth-child(even){
+         margin-right: 0px !important;
+    }
+     .banner-Text h1{
+         font-size: 1.5rem;
+    }
+     .banner-Text h4 {
+         font-size: 20px;
+    }
+     .bookNow{
+         margin: 0 auto;
+    }
+     .sellingCarDetail{
+         height: 500px 
+    }
+   
+     .footer br{
+         display: none;
+    }
+     .sign-up {
+         width: auto;
+    }
+
+
+    .logo{width: 240px;}
+
+
+    .header-main{box-shadow: none;}
+
+
+}
+ @media only screen and (max-width:767px) {
+
+     .sign-up {
+         width: 100%;
+    }
+     .sellcarlist li{
+         width: 100% 
+    }
+     .car {
+         position: relative;
+         height:93px;
+         width: 250px;
+    }
+     #moving-type-left{
+         top: 50px;
+         left: 50px;
+    }
+     .circle1 ,.circle2{
+         width: 42px;
+         height: 42px;
+    }
+     #moving-type-right{
+         top: 52px;
+         left: 203px;
+    }
+     .selling-process.directionLeft:after{
+         position: absolute;
+         content: '';
+         background: url(../images/Line2.svg);
+         left: 48px;
+         background-repeat: no-repeat;
+         height: 110px;
+         width: 100%;
+         background-position: center;
+         top: 100%;
+    }
+    .selling-process.directionRight:after {
+    height: 110px;
+}
+     .iframe-map{
+         width: 100%;
+         top: 40%;
+    }
+     .subscribeNewsletter{
+         height:825px;
+    }
+     .footer{
+        background-color: #efefef;
+    }
+     br{
+        display: none;
+    }
+     h2{
+        font-size: 30px;
+    }
+
+
+    .navbar-collapse {
+  background-color: #f24026;
+}
+
+    .banner-Text {
+    top: 10%;
+    transform: translateY(0%);
+}
+
+.navigation_bar.navbar-nav li a.nav-link{
+   color:#fff; text-align: center; border-bottom: 4px solid transparent; 
+}
+
+
+.navigation_bar.navbar-nav li.active a.nav-link{
+   color:#fff;  border-color: #fff;
+}
+
+
+
+}
+ @media only screen and (max-width:568px) {
+    .selling-process h4 {
+    font-size: 22px;
+}
+     .supportMail h3{
+         font-size: 20px 
+    }
+     .sellingCarDetail{
+         background: transparent;
+         height: auto;
+    }
+     .dropdown.mr-3{
+         margin-right:0px !important;
+    }
+     .sellanycar {
+         margin-top: 0;
+    }
+     .simpleFastProfitable{
+         overflow-x: hidden;
+    }
+     .process-Title:before{
+         left:40px 
+    }
+     .selling-process .ml-5{
+         margin-left: 4rem !important 
+    }
+     .simpleFastProfitable .selling-process:after{
+         height: 100px 
+    }
+}
+ @media only screen and (max-width:567px) {
+     .simpleFastProfitable .selling-process:after{
+         display: none 
+    }
+}
+ @media only screen and (max-width:360px) {
+     .logocompany{
+         max-width: 90% 
+    }
+}
+ .plus{
+    position: absolute;
+     right: 0;
+     top: 0;
+     width: 40px;
+     height: 100%;
+     text-align: center;
+}
+ .plus:before {
+     width: 10px;
+     font-size: 26px;
+     color: #000;
+     content: "+";
+     display: inline-block;
+     vertical-align: middle;
+}
+ .plus:after {
+     width: 50px;
+     font-size: 26px;
+     color: #000;
+     content: "-";
+     display: inline-block;
+     vertical-align: middle;
+}
+ [data-toggle="collapse"] .plus:before {
+     display: none;
+}
+ .collapsed[data-toggle="collapse"] .plus:before {
+     display: inline-block;
+}
+ .collapsed[data-toggle="collapse"] .plus:after {
+     display: none;
+}
+ 

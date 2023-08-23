@@ -1,0 +1,30 @@
+[28-Dec-2021 07:25:04 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/expatcarbuyers/public_ in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[28-Dec-2021 07:25:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/expatcarbuyers/public_ in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[09-Mar-2022 17:12:53 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3194053 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[09-Mar-2022 17:13:09 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3194053 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[09-Mar-2022 17:13:19 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3194053 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[17-Mar-2022 14:03:26 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3212127 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[17-Mar-2022 14:03:57 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3212127 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[31-Mar-2022 14:08:57 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3327655 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[28-Apr-2022 11:02:20 Asia/Dubai] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3654611 bytes) in /home/expatcarbuyers/public_html/vendor/symfony/http-foundation/Response.php on line 381
+[04-Nov-2022 14:04:51 Asia/Dubai] PHP Fatal error:  Uncaught ReflectionException: Class translator does not exist in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('translator')
+#1 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('translator')
+#2 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('translator', Array, true)
+#3 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('translator', Array)
+#4 /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('translator', Array)
+#5 /home/expatcarbuyers/p in /home/expatcarbuyers/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[06-Jul-2023 17:54:15 Asia/Dubai] PHP Fatal error:  Class declarations may not be nested in /home/expatcarbuyers/public_html/app/Http/Controllers/BookingController.php on line 54

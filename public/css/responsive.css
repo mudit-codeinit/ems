@@ -1,0 +1,1299 @@
+@media only screen and (min-width:1660px){
+.car-sell .img-box {
+    background-size: 87% !important;
+    margin-top: 90px !important;
+}	
+}
+
+@media (max-width: 1399.98px) {
+    .nav-link {
+        margin: 0px 25px !important;
+    }
+
+    #section-1 .img-box {
+        min-height: 570px !important;
+    }
+
+    #sell-vehicle .left-text {
+        padding: 0px 0px 0px 150px !important;
+    }
+
+    .car-sell .right-text {
+        padding-right: 130px !important;
+    }
+
+    #section-4 .left-text {
+        padding-left: 150px !important;
+    }
+
+    .made-easy .line::before {
+        display: none !important;
+    }
+
+    .made-easy .img-box .set {
+        width: 100% !important;
+    }
+
+    .made-easy .line::after {
+        display: none;
+    }
+
+    .made-easy .line-2::after {
+        display: none !important;
+    }
+
+    .made-easy .line-2::before {
+        display: none !important;
+    }
+
+    .made-easy .padding {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    .made-easy .style-box {
+        margin: 23px 0px !important;
+    }
+
+    .owl-carousel .owl-item img {
+        height: 100px !important;
+        width: 180px !important;
+        object-fit: contain !important;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    #booking .form-select {
+
+        padding: 0px !important;
+    }
+
+    .owl-carousel .owl-item img {
+        height: 100px !important;
+        width: 180px !important;
+        object-fit: contain !important;
+    }
+
+    #Sell-your .text-box-left h3 {
+        font-size: 55px !important;
+        padding-top: 18px !important;
+    }
+
+    #img-box img {
+        margin-top: -225px !important;
+        margin-left: -71px !important;
+    }
+
+    #Sell-your .form-sell {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    #Sell-your .form-sell .form-select {
+        margin: 18px 0px !important;
+    }
+
+    .Why-Sell .set-border::before {
+        display: none;
+    }
+
+    .Why-Sell .set-border::after {
+        display: none;
+    }
+
+    .Why-Sell .set-border-2::after {
+        display: none;
+    }
+
+    .Why-Sell .style-box .text-1 h3 {
+        font-size: 20px !important;
+    }
+
+    .Why-Sell .style-box .text-1 p {
+        font-size: 16px !important;
+        padding-top: 0px !important;
+        line-height: 24px !important;
+    }
+
+    .Expert-cars .right h5 {
+        font-size: 35px !important;
+    }
+
+    .Expert-cars .box-style {
+        min-height: 345px !important;
+    }
+
+    .Sell-car .car {
+        padding-left: 0px !important;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .Sell-car .car h4 {
+        font-size: 35px !important;
+    }
+
+    .Sell-car .form-2 {
+        padding-left: 15px !important;
+        padding-bottom: 20px !important;
+        padding-right: 15px !important;
+    }
+
+    .margin-left {
+        margin-left: 0px !important;
+        margin-top: 20px !important;
+    }
+
+    #img-box img {
+        display: none !important;
+    }
+
+
+
+
+    .nav-link {
+        margin: 0px 15px !important;
+    }
+
+    #section-1 {
+        padding: 40px 0px 40px 0px !important;
+    }
+
+    #section-1 .img-box {
+        min-height: 100% !important;
+    }
+
+    #section-1 .left-text h4 {
+        font-size: 47px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        line-height: 54px !important;
+        padding-bottom: 0px !important;
+    }
+
+    #section-1 .left-text .p-style {
+        font-size: 19px !important;
+    }
+
+    #booking {
+        margin-top: -0px !important;
+    }
+
+    #booking .style-box {
+        gap: 14px !important;
+    }
+
+    #booking .style-box .text p {
+        font-size: 17px !important;
+    }
+
+    #section-1 .left-text {
+        padding: 0px 0px 0px 130px !important;
+
+    }
+
+    #sell-vehicle .left-text {
+        padding: 0px 0px 0px 55px !important;
+    }
+
+    #sell-vehicle .img-box {
+        min-height: 449px !important;
+    }
+
+    .car-sell .right-text {
+        padding-right: 55px !important;
+    }
+
+    #section-4 .left-text {
+        padding-left: 50px !important;
+    }
+
+    #section-4 .img-box {
+        min-height: 400px !important;
+    }
+
+    .made-easy .style-box p {
+        font-size: 13px !important;
+    }
+
+    .made-easy .style-box h4 {
+        padding-bottom: 0px !important;
+    }
+
+    .market-value .box-style {
+        min-width: 300px !important;
+        height: 169.737px !important;
+        gap: 13px !important;
+        margin: 15px 0px !important;
+    }
+
+    .contact-us h4 {
+        font-size: 45px !important;
+    }
+
+    #affordable-car .img-box {
+        height: 440px !important;
+    }
+
+    #affordable-car .right-box h4 {
+        font-size: 38px !important;
+    }
+
+    footer .right-side li span {
+        font-size: 17px !important;
+        line-height: 32px !important;
+    }
+}
+
+@media (max-width: 991.98px) {
+    #booking .form-select {
+        padding-left: 21px !important;
+    }
+
+    .Why-Sell h4 {
+        font-size: 33px !important;
+        padding-bottom: 14px !important;
+    }
+
+    .Why-Sell .style-box {
+        margin: 4px 0px !important;
+    }
+
+    .Why-Sell .style-box {
+        align-items: start !important;
+        gap: 15PX !important;
+    }
+
+    .World-Largest .left-text h4 {
+        font-size: 35px !important;
+        line-height: 40px !important;
+    }
+
+    .World-Largest .left-text p {
+        font-size: 17px !important;
+        line-height: 25px !important;
+        padding-top: 0px !important;
+    }
+
+    .World-Largest .left-text .list li {
+        font-size: 15px !important;
+        gap: 16px !important;
+        margin: 13px 0px !important;
+    }
+
+    .Car-Dealer::before {
+        display: none !important;
+    }
+
+    .Car-Dealer .img-left {
+        margin-top: 10px !important;
+    }
+
+    .Car-Deakler .left-text {
+        padding-left: 0px !important;
+    }
+
+    .Car-Deakler::before {
+        display: none !important;
+    }
+
+    .Car-Deakler {
+        padding: 0px 0px 0px 0px !important;
+    }
+
+    .Expert-cars {
+        padding: 35px 0px 75px 0px !important;
+    }
+
+    .Expert-cars .right {
+        margin-top: 20px !important;
+    }
+
+
+    .Expert-cars .Factors {
+        padding: 58px 0px 20px 0px !important;
+    }
+
+    .Expert-cars .box-style {
+        min-height: auto !important;
+        margin: 10px 0px !important;
+    }
+
+    .Sell-car .form-2 {
+        margin: 20px 0px !important;
+    }
+
+    .frequently .Asked {
+        font-size: 28px !important;
+        line-height: 48px !important;
+        width: 100% !important;
+        max-width: 1000px !important;
+    }
+
+
+
+
+
+    .top-bar {
+        display: none !important;
+    }
+
+    .navbar-brand {
+        display: block !important;
+    }
+
+    header {
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
+        background: transparent !important;
+    }
+
+    .navbar-toggler {
+        background: var(--btn-bg) !important;
+        border-radius: 4px !important;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none !important;
+        border: 0px !important;
+    }
+
+    .nav-link {
+        margin: 7px 0px !important;
+        padding: 0px !important;
+        color: var(--p-text) !important;
+    }
+
+    .nav-link::before {
+        display: none !important;
+    }
+
+    .navbar-collapse {
+        margin-top: 15px !important;
+    }
+
+    #section-1 .left-text h4 {
+        font-size: 46px !important;
+        line-height: 55px !important;
+    }
+
+    #section-1 .img-box {
+        min-height: 700px !important;
+    }
+
+    #section-1 .left-text .p-style {
+        line-height: 25px !important;
+    }
+
+    #booking {
+        padding: 45px 0px 45px 0px !important;
+    }
+
+    #booking .style-box {
+        min-width: 203px;
+        margin: 20px 0px;
+    }
+
+    #booking .bg {
+        padding: 34px !important;
+    }
+
+    #sell-vehicle::before {
+        display: none;
+    }
+
+    #sell-vehicle {
+        padding: 50px 0px 50px 0px !important;
+    }
+
+    #sell-vehicle .left-text li span {
+        font-size: 16px !important;
+    }
+
+    #sell-vehicle .left-text .btn-style {
+        margin-top: 25px !important;
+    }
+
+    #sell-vehicle .img-box {
+        min-height: 504px !important;
+    }
+
+    .car-sell {
+        padding: 50px 0px 50px 0px !important;
+    }
+
+    .car-sell::before {
+        display: none;
+    }
+
+    .car-sell .img-box {
+
+        min-height: 611px !important;
+        margin-top: 10px !important;
+    }
+
+    .car-sell .right-text li span {
+        font-size: 15px !important;
+    }
+
+    .car-sell .right-text {
+        padding-right: 0px !important;
+        padding-left: 55px !important;
+    }
+
+    #section-4 {
+        padding: 25px 0px 0px 0px !important;
+    }
+
+    .car-sell .right-text li span {
+        font-size: 15px !important;
+    }
+
+    .car-sell .right-text .btn-style {
+        margin-top: 25px;
+    }
+
+    #section-4 .left-text {
+        padding-left: 55px !important;
+    }
+
+    #section-4::before {
+        display: none !important;
+    }
+
+    #section-4 .left-text li span {
+        font-size: 15px !important;
+    }
+
+    .car-sell .right-text .btn-style {
+        margin-top: 28px !important;
+    }
+
+    #section-4 .img-box {
+        min-height: 600px !important;
+        margin-top: 5px !important;
+    }
+
+    .made-easy {
+        padding: 40px 0px 30px 0px !important;
+    }
+
+    .made-easy .more {
+        padding-bottom: 5px;
+    }
+
+    .made-easy .Get {
+        padding-bottom: 15px !important;
+    }
+
+    .made-easy .style-box {
+        padding: 14px !important;
+        margin: 15px 0px !important;
+    }
+
+    .made-easy .img-box img {
+        height: 163px !important;
+        width: 100% !important;
+    }
+
+    .market-value {
+        padding: 45px 0px 45px 0px !important;
+    }
+
+    .market-value h4 {
+        font-size: 35px !important;
+    }
+
+    .market-value .getcl {
+        padding-bottom: 25px !important;
+    }
+
+    #affordable-car .img-box {
+        height: 732px !important;
+    }
+
+    #affordable-car .right-box {
+        padding-left: 55px !important;
+        padding-top: 15px !important;
+    }
+
+    footer {
+        padding: 60px 0px 0px 0px !important;
+    }
+
+    footer .right-side {
+        padding-left: 0px !important;
+    }
+
+    footer .left-side .icon {
+        padding-bottom: 30px !important;
+    }
+
+    footer .right-side h4 {
+        font-size: 25px;
+        padding-bottom: 10px;
+        padding-top: 20px;
+    }
+
+    footer .Privacy {
+        text-align: left !important;
+        padding: 20px 0px 20px 0px !important;
+    }
+
+    .owl-carousel .owl-item img {
+        height: 100px !important;
+        width: 180px !important;
+        object-fit: contain !important;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .World-Largest .right-img {
+        margin: 40px 0px !important;
+    }
+
+    .Car-Dealer {
+        padding: 10px 0px 100px 0px !important;
+    }
+
+    .Car-Dealer .right-text h4 {
+        font-size: 30px !important;
+        width: 100% !important;
+        max-width: 1000px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .Expert-cars .right h5 {
+        font-size: 28px !important;
+        LINE-HEIGHT: 37PX !IMPORTANT;
+    }
+
+
+
+
+    .World-Largest .left-text h4 {
+        font-size: 30px !important;
+    }
+
+    #Sell-your .text-box-left h3 {
+        font-size: 49px !important;
+        padding-top: 10px !important;
+    }
+
+    .Why-Sell h4 {
+        font-size: 22px !important;
+        padding-bottom: 7px !important;
+    }
+
+    #section-1 .left-text {
+        padding: 0px 0px 0px 0px !important;
+    }
+
+    #sell-vehicle .left-text {
+        padding: 0px 0px 0px 0px !important;
+    }
+
+    #sell-vehicle .left-text h4 {
+        font-size: 42px !important;
+    }
+
+    #sell-vehicle .img-box {
+        margin-top: -15px;
+    }
+
+    #sell-vehicle {
+        padding: 50px 0px 0px 0px !important;
+    }
+
+    .car-sell .img-box {
+        margin-top: 0px !important;
+    }
+
+    .car-sell {
+        padding: 0px 0px 50px 0px !important;
+    }
+
+    .car-sell .right-text {
+        padding-left: 0px !important;
+        margin-top: -80px !important;
+    }
+
+    .car-sell .right-text h4 {
+        font-size: 37px !important;
+    }
+
+    #section-4 .left-text {
+        padding-left: 0px !important;
+    }
+
+    .car-sell {
+        padding: 0px 0px 30px 0px !important;
+    }
+
+    #section-4 .left-text h4 {
+        font-size: 30px !important;
+        line-height: 42px !important;
+    }
+
+    #section-4 .left-text .btn-style {
+        margin-top: 22px !important;
+    }
+
+    .made-easy {
+        padding: 30px 0px 25px 0px !important;
+    }
+
+    .made-easy .more {
+        font-size: 40px !important;
+    }
+
+    .made-easy .more {
+        padding-bottom: 4px !important;
+    }
+
+    .made-easy .style-box {
+        padding: 40px !important;
+    }
+
+    .made-easy .style-box p {
+        font-size: 14px !important;
+    }
+
+    .market-value {
+        padding: 35px 0px 35px 0px !important;
+    }
+
+    .market-value h4 {
+        font-size: 26px !important;
+    }
+
+    .market-value .getcl {
+        padding-bottom: 22px !important;
+        font-size: 14px !important;
+    }
+
+    .market-value .box-style {
+        min-width: 235px !important;
+        margin: 15px 0px !important;
+    }
+
+    .contact-us h4 {
+        font-size: 25px !important;
+    }
+
+    .contact-us {
+        min-height: 200px !important;
+    }
+
+    #affordable-car .right-box h4 {
+        font-size: 33px !important;
+        line-height: 40px !important;
+    }
+
+    footer {
+        padding: 40px 0px 0px 0px !important;
+    }
+
+    footer .left-side p {
+        font-size: 17px !important;
+    }
+
+    #affordable-car .right-box {
+        padding-left: 0px !important;
+        padding-top: 15px !important;
+    }
+
+    .owl-carousel .owl-item img {
+        height: 100px !important;
+        width: 180px !important;
+        object-fit: contain !important;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fa-chevron-down:before {
+        content: "\f078" !important;
+        margin-right: 14px !important;
+    }
+
+    .navbar-brand img {
+        width: 213px;
+        height: 43px;
+        object-fit: contain;
+    }
+
+    #section-1 {
+        padding: 15px 0px 15px 0px !important;
+    }
+
+    #section-1 .left-text .Top {
+        font-size: 20px !important;
+        line-height: 10px !important;
+        padding-bottom: 0px !important;
+    }
+
+    #section-1 .left-text h4 {
+        font-size: 25px !important;
+        line-height: 35px !important;
+        padding-bottom: 1px !important;
+    }
+
+    #section-1 .left-text .p-style {
+        line-height: 24px !important;
+        font-size: 16px !important;
+    }
+
+    #section-1 .left-text .book-now {
+        max-width: 130.556px !important;
+        width: 100% !important;
+        height: 45.926px !important;
+        font-size: 18px !important;
+        margin-top: 3px !important;
+    }
+
+    #section-1 .img-box {
+        min-height: 240px !important;
+    }
+
+    #section-1 {
+        padding: 10px 0px 10px 0px !important;
+    }
+
+    #booking {
+        padding: 25px 0px 25px 0px !important;
+    }
+
+    #booking .bg {
+        padding: 20px !important;
+    }
+
+    #booking .style-box {
+        min-width: 250px !important;
+        margin: 13px 0px !important;
+        gap: 16px !important;
+    }
+
+    #booking .style-box .text p {
+        font-size: 16px !important;
+    }
+
+    #sell-vehicle {
+        padding: 20px 0px 0px 0px !important;
+    }
+
+    #sell-vehicle .left-text h4 {
+        font-size: 26px !important;
+        line-height: 36px !important;
+        padding-bottom: 2px !important;
+    }
+
+    #sell-vehicle .left-text .for-cars {
+        font-size: 26px !important;
+    }
+
+    #sell-vehicle .left-text .Et-harum {
+        font-size: 14px !important;
+        line-height: 21px !important;
+    }
+
+    #sell-vehicle .left-text .set-p {
+        padding-bottom: 12px !important;
+    }
+
+    #sell-vehicle .left-text li {
+        margin: 14px 0px !important;
+        display: flex !important;
+        align-items: start !important;
+    }
+
+    #sell-vehicle .left-text .btn-style {
+        max-width: 140px !important;
+        min-height: 51.952px !important;
+        width: 100% !important;
+        font-size: 18px !important;
+        margin-top: 10px !important;
+    }
+
+    #sell-vehicle .img-box {
+        min-height: 250px !important;
+        display: none !important;
+    }
+
+    .car-sell .img-box {
+        min-height: 375px !important;
+    }
+
+    .car-sell .right-text {
+        padding-left: 0px !important;
+        margin-top: -40px !important;
+    }
+
+    .car-sell .right-text h4 {
+        font-size: 26px !important;
+        line-height: 36px !important;
+        padding-bottom: 5px !important;
+    }
+
+    .car-sell .right-text li {
+        margin: 14px 0px !important;
+        display: flex !important;
+        align-items: start !important;
+    }
+
+    .car-sell .right-text .btn-style {
+        max-width: 140px !important;
+        min-height: 51.952px !important;
+        width: 100% !important;
+        font-size: 18px !important;
+        margin-top: 10px !important;
+    }
+
+    #section-4 {
+        padding: 20px 0px 0px 0px !important;
+    }
+
+    #section-4 .left-text h4 {
+        font-size: 25px !important;
+        line-height: 35px !important;
+        padding-bottom: 5px !important;
+    }
+
+    #section-4 .left-text li {
+        margin: 14px 0px !important;
+        display: flex !important;
+        align-items: start !important;
+    }
+
+    #section-4 .left-text .btn-style {
+        max-width: 140px !important;
+        min-height: 51.952px !important;
+        width: 100% !important;
+        font-size: 18px !important;
+        margin-top: 10px !important;
+    }
+
+    #section-4 .img-box {
+        min-height: 235px !important;
+        margin-top: 5px !important;
+    }
+
+    .made-easy {
+        padding: 15px 0px 15px 0px !important;
+    }
+
+    .made-easy .more {
+        padding-bottom: 1px !important;
+        font-size: 24px !important;
+    }
+
+    .made-easy .Get {
+        font-size: 14PX !important;
+        padding-bottom: 12px !important;
+    }
+
+    .made-easy .style-box {
+        padding: 23px !important;
+        margin: 10PX 0PX !important;
+    }
+
+    .made-easy .style-box h4 {
+        font-size: 27px !important;
+    }
+
+    .made-easy .padding {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .market-value {
+        padding: 20px 0px 20px 0px !important;
+    }
+
+    .market-value h4 {
+        font-size: 23px !important;
+    }
+
+    .market-value .getcl {
+        padding-TOP: 0px !important;
+        font-size: 13px !important;
+    }
+
+    .market-value .box-style {
+        min-width: 240px !important;
+        margin: 12px 0px !important;
+    }
+
+    .contact-us h4 {
+        font-size: 20px !important;
+        padding-bottom: 10px !important;
+    }
+
+    .contact-us {
+        min-height: 171px !important;
+    }
+
+    #affordable-car {
+        padding: 25px 0px 35px 0px !important;
+    }
+
+    #affordable-car .img-box {
+        height: 245px !important;
+    }
+
+    #affordable-car .right-box {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    #affordable-car .right-box h4 {
+        font-size: 26px !important;
+        line-height: 35px !important;
+    }
+
+    #affordable-car .right-box p {
+        font-size: 16px !important;
+        padding-top: 2px !important;
+        line-height: 27px !important;
+    }
+
+    #affordable-car .right-box button {
+        max-width: 155px !important;
+        min-height: 51.952px !important;
+        width: 100% !important;
+        font-size: 18px !important;
+        margin-top: 5px !important;
+    }
+
+    footer .left-side p {
+        font-size: 16px !important;
+        LINE-HEIGHT: 28PX !important;
+    }
+
+    footer .right-side li span {
+        font-size: 15px !important;
+        line-height: 29px !important;
+    }
+
+    footer .Privacy {
+        font-size: 13.69px !important;
+        padding: 24px 0px 24px 0px !important;
+    }
+
+    footer .left-side .Copyright {
+        font-size: 17px !important;
+    }
+
+    footer .right-side h4 {
+        font-size: 25px !important;
+        padding-bottom: 12px !important;
+    }
+
+
+    #Sell-your {
+        margin-top: 25px !important;
+    }
+
+    .set-padding {
+        padding: 0px 0px 0px 0px !important;
+    }
+
+    #Sell-your .text-box-left {
+        padding-left: 0px !important;
+    }
+
+    #Sell-your .text-box-left h3 {
+        font-size: 25px !important;
+        padding-top: 0px !important;
+        line-height: 20px !important;
+    }
+
+    #Sell-your::before {
+        display: none !important;
+    }
+
+    #Sell-your .text-box-left p {
+        font-size: 17px !important;
+        line-height: 24px !important;
+    }
+
+    .margin-left {
+        margin-top: 5px !important;
+    }
+
+    #Sell-your .form-sell h4 {
+        font-size: 25px !important;
+        padding: 17px 0px 0px 0px !important;
+    }
+
+    #Sell-your .form-sell .form-select {
+        margin: 16px 0px !important;
+    }
+
+    #Sell-your .form-sell .Evaluate {
+        margin-top: 15px !important;
+    }
+
+    .Why-Sell {
+        padding: 30px 0px 30px 0px !important;
+    }
+
+    .Why-Sell h4 {
+        font-size: 20px !important;
+        padding-bottom: 5px !important;
+        line-height: 26px !important;
+    }
+
+    .Why-Sell .style-box {
+        display: block !important;
+        text-align: center !important;
+        padding: 8px !important;
+    }
+
+    .Why-Sell .style-box .text-1 h3 {
+        font-size: 17px !important;
+        margin-top: 8px !important;
+    }
+
+    .Why-Sell .style-box .text-1 p {
+        line-height: 22px !important;
+    }
+
+    .World-Largest .left-text {
+        padding-left: 0px !important;
+    }
+
+    .Why-Sell {
+        padding: 30px 0px 14px 0px !important;
+    }
+
+    .World-Largest .left-text h4 {
+        font-size: 24px !important;
+        line-height: 38px !important;
+    }
+
+    .World-Largest .left-text p {
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+
+    .World-Largest .left-text .list {
+        margin-top: 23px !important;
+    }
+
+    .World-Largest .left-text .list li {
+        font-size: 13px !important;
+        gap: 12px !important;
+    }
+
+    .World-Largest .left-text .Discover {
+        min-width: 125.463px !important;
+        height: 45.333px !important;
+        font-size: 16px !important;
+        margin-top: 15px !important;
+    }
+
+    .Car-Dealer {
+        padding: 0px 0px 30px 0px !important;
+    }
+
+    .Car-Dealer .right-text {
+        margin-top: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .Car-Dealer .right-text h4 {
+        font-size: 23px !important;
+        padding-bottom: 0px !important;
+        line-height: 10px !important;
+    }
+
+    .Car-Dealer .right-text {
+        margin-top: 40px !important;
+    }
+
+    .Car-Dealer .right-text p {
+        font-size: 17px !important;
+        line-height: 26px !important;
+        padding-top: 8px !important;
+    }
+
+    .Car-Dealer .right-text .list {
+        margin-top: 25px !important;
+    }
+
+    .Car-Dealer .right-text .list li {
+        font-size: 15px !important;
+        gap: 15px !important;
+        margin: 13px 0px !important;
+    }
+
+    .Car-Dealer .right-text .Discover {
+        min-width: 125.463px !important;
+        height: 45.333px !important;
+        font-size: 16px !important;
+        margin-top: 15px !important;
+    }
+
+    .Car-Deakler .left-text h4 {
+        font-size: 23px !important;
+        line-height: 14px !important;
+        padding-top: 17px !important;
+    }
+
+    .Car-Deakler .left-text p {
+        font-size: 17px !important;
+        line-height: 26px !important;
+    }
+
+    .Car-Deakler .left-text .list {
+        margin-top: 25px !important;
+    }
+
+    .Car-Deakler .left-text .list li {
+        font-size: 15px !important;
+        gap: 16px !important;
+        margin: 15px 0px !important;
+    }
+
+    .Car-Deakler .left-text .Discover {
+        min-width: 125.463px !important;
+        height: 45.333px !important;
+        font-size: 16px !important;
+        margin-top: 15px !important;
+    }
+
+    .Car-Deakler img {
+        margin-top: 30px !important;
+        display: none;
+    }
+
+    .Expert-cars .right {
+        padding-left: 0px !important;
+    }
+
+    .Expert-cars .right h5 {
+        font-size: 20px !important;
+        LINE-HEIGHT: 28PX !IMPORTANT;
+    }
+
+    .Expert-cars .right p {
+        font-size: 16px !important;
+        padding-top: 0px !important;
+        line-height: 26px !important;
+    }
+
+
+
+    .Expert-cars .Factors {
+        padding: 25px 0px 15px 0px !important;
+        font-size: 20px !important;
+        line-height: 27px !important;
+    }
+
+    .Expert-cars .box-style {
+        padding: 25px 12px 17px 18px !important;
+    }
+
+    .Expert-cars {
+        padding: 35px 0px 25px 0px !important;
+    }
+
+    .Sell-car {
+        background: #F9F9F9;
+        padding: 21px 0px 21px 0px;
+    }
+
+    .Sell-car .car h4 {
+        font-size: 22px !important;
+    }
+
+    .Sell-car {
+        padding: 30px 0px 3px 0px !important;
+    }
+
+    .Sell-car .form-2 h4 {
+        font-size: 28px !important;
+        padding: 18px 0px 7px 0px !important;
+    }
+
+    .Sell-car .form-2 input {
+
+        margin: 7px 0px !important;
+    }
+
+    .Sell-car .form-2 .Evaluate {
+        margin-top: 12px !important;
+    }
+
+    .Sell-car .car p {
+        font-size: 17px !important;
+    }
+
+    .frequently {
+        padding: 15px 0px 15px 0px !important;
+    }
+
+    .frequently .Asked {
+        font-size: 21px !important;
+        line-height: 31px !important;
+    }
+
+    .accordion-flush .accordion-item .accordion-button.collapsed:focus {
+        font-size: 15px !important;
+        font-weight: 700 !important;
+        padding-bottom: 9px !important;
+        line-height: 20px !important;
+    }
+
+    .market-value .box-style h5 {
+        font-size: 15px !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+
+    .market-value .box-style {
+        gap: 0px !important;
+    }
+
+    .owl-carousel .owl-item img {
+        height: 100px !important;
+        width: 180px !important;
+        object-fit: contain !important;
+    }
+
+    #booking .form-control {
+        font-size: 18px !important;
+    }
+
+    #booking .form-select {
+        font-size: 18px !important;
+    }
+
+    .Car-Dealer .row.edit-row {
+        flex-direction: column-reverse !important;
+    }
+
+    .Car-Dealer .img-left {
+        margin-top: 30px !important;
+    }
+
+    .Car-Dealer {
+        margin-top: -25px !important;
+    }
+
+    #booking .bg {
+        display: none !important;
+    }
+
+    #booking .mobile-form {
+        display: block !important;
+    }
+}
+
+
+@media (max-width: 390px) {
+    .car-sell .img-box {
+        min-height: 274px !important;
+    }
+}

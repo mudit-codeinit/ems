@@ -1,0 +1,43 @@
+# robots.txt 
+User-agent: *
+# Disallow: 
+Disallow: /cgi-bin/
+# Do not index pages with filters
+Disallow: /*?
+Disallow: /blog*?
+Disallow: /page*?
+Disallow: /*?limit=
+Disallow: /*&limit=
+Disallow: /*?tag=
+Disallow: /*&tag=
+Disallow: /*?path=
+Disallow: /*&path=
+Disallow: /*&search=
+Disallow: /*&blog_category_id=
+Disallow: /*&simple_blog_article_id=
+Disallow: /*&manufacturer_id=
+User-agent: Googlebot
+# Parameters:
+Disallow: *dir=grid*
+Disallow: *dir=desc*
+Disallow: *dir=asc*
+Disallow: *order=position*
+Disallow: *order=name*
+Disallow: *order=reviews*
+Disallow: *order=price*
+Disallow: *mode=grid*
+Disallow: *mode=list*
+Disallow: /search/ 
+Disallow: *?s=* 
+Disallow: *?p=* 
+Disallow: *&p=* 
+Disallow: *&preview=* 
+Disallow: /tag/ 
+Disallow: /author/ 
+Disallow: /404-error/ 
+Disallow: /?blackhole
+Disallow: /nogooglebot/
+
+## Sitemap
+https://www.expatcarbuyers.com/sitemap.xml
+
